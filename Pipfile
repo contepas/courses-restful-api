@@ -9,6 +9,9 @@ verify_ssl = true
 flask = "*"
 flask-restful = "*"
 peewee = "*"
+argon2-cffi = "*"
+flask-httpauth = "*"
+flask-limiter = "*"
 
 [requires]
 python_version = "3.6"
